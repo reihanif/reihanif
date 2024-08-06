@@ -27,6 +27,7 @@ I'm a Full Stack Developer with extensive experience in building robust, scalabl
 - Pengelolaan Layanan Teknologi Informasi - Badan Nasional Sertifikasi Profesi (2023).
 - Complete UI Design: Visual Design, Prototype, Usability Test - BuildWith Angga (2021).
 - Figma UI Animation Design - BuildWith Angga (2021).
+- Front End - Sinau Koding Academy (June 2024 - July 2024)
 
 ## 📖 Publications
 - Scientific Paper: "Aplikasi Pendataan Tamu Undangan Berbasis Website Menggunakan QR Code".
