@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Reihan Faizal Hanif!
 
-I'm a Full Stack Developer with extensive experience in building robust, scalable, and high-performance web applications using Laravel and Alpine.js. I'm currently expanding my knowledge and experience, and have an interest in Web Development and Product Design.
+I'm a Web Developer with extensive experience in building robust, scalable, and high-performance web applications using Laravel and Alpine.js. I'm currently expanding my knowledge and experience, and have an interest in Web Development and Product Design.
 
 ## 🌐 Contact Me
 - 📧 Email: reihanfaizalhanif@gmail.com
@@ -8,7 +8,8 @@ I'm a Full Stack Developer with extensive experience in building robust, scalabl
 - 📍 Location: Kota Bogor, Jawa Barat 16136
 
 ## 💼 Work Experiences
-- **Fullstack Developer** at PT Pertagas Niaga (Apr 2024 - Present)
+- **Frontend Developer** at PT Indonesia Comnets Plus (Mar 2025 - Present)
+- **Fullstack Developer** at PT Pertagas Niaga (Apr 2024 - Mar 2025)
 - **IT Corporate Support Intern** at PT Pertagas Niaga (Apr 2023 - Jan 2024)
 - **Product Designer Intern** at Bhinneka.com (Aug 2022 - Dec 2022)
 
@@ -16,7 +17,7 @@ I'm a Full Stack Developer with extensive experience in building robust, scalabl
 - Bachelor Degree in Information Systems from Gunadarma University - Depok, Indonesia (Aug 2019 - Aug 2023)
 
 ## 🏆 Skills & Achievements
-- Frontend Web Development : HTML, CSS, Javascript, Bootstrap, Tailwindcss, JQuery, Alpine.js, Vue.js.
+- Frontend Web Development : HTML, CSS, Javascript, Vue.js, Bootstrap, Tailwindcss, JQuery, Alpine.js.
 - Backend Web Development : PHP, Laravel, Codeigniter, MySQL.
 - Programming Tools : Git, Github, Postman, Visual Studio Code, NPM, Composer.
 - Software Development Lifecycle, UI/UX Design, Design Thinking, Figma.
